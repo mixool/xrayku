@@ -4,7 +4,7 @@
   
 * [欢迎使用caddy页面](https://raw.githubusercontent.com/caddyserver/dist/master/welcome/index.html)  
   
-* [3DCEList元素周期表](https://github.com/wulabing/3DCEList/archive/master.zip)  
+* [3DCEList元素周期表](https://github.com/wulabing/3DCEList/archive/master.)  
 
 * [Spotify-Landing-Page-Redesign](https://github.com/WebDevSimplified/Spotify-Landing-Page-Redesign/archive/master.zip)  
 
